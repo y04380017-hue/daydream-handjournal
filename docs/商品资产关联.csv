@@ -1,0 +1,71 @@
+﻿id,name,category,texture,source,prefab,description
+tape_01,复古玫瑰,tape,Catalog/tape_01,Textures/Tapes/tape_01_pattern.png,Assets/Prefabs/TapeRoll_01.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_02,植物图鉴,tape,Catalog/tape_02,Textures/Tapes/tape_02_pattern.png,Assets/Prefabs/TapeRoll_02.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_03,旧报纸,tape,Catalog/tape_03,Textures/Tapes/tape_03_pattern.png,Assets/Prefabs/TapeRoll_03.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_04,古地图,tape,Catalog/tape_04,Textures/Tapes/tape_04_pattern.png,Assets/Prefabs/TapeRoll_04.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_05,复古邮票,tape,Catalog/tape_05,Textures/Tapes/tape_05_pattern.png,Assets/Prefabs/TapeRoll_05.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_06,维多利亚蕾丝,tape,Catalog/tape_06,Textures/Tapes/tape_06_pattern.png,Assets/Prefabs/TapeRoll_06.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_07,古典乐谱,tape,Catalog/tape_07,Textures/Tapes/tape_07_pattern.png,Assets/Prefabs/TapeRoll_07.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_08,复古瓷砖,tape,Catalog/tape_08,Textures/Tapes/tape_08_pattern.png,Assets/Prefabs/TapeRoll_08.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_09,暖色几何拼贴,tape,Catalog/tape_09,Textures/Tapes/tape_09_pattern.png,Assets/Prefabs/TapeRoll_09.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_10,蓝色月光,tape,Catalog/tape_10,Textures/Tapes/tape_10_pattern.png,Assets/Prefabs/TapeRoll_10.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_11,秋日枫叶,tape,Catalog/tape_11,Textures/Tapes/tape_11_pattern.png,Assets/Prefabs/TapeRoll_11.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+tape_12,咖啡手账,tape,Catalog/tape_12,Textures/Tapes/tape_12_pattern.png,Assets/Prefabs/TapeRoll_12.prefab,将旧日的花纹与柔和的色彩，留在今天的纸边。
+sticker_01,植物标本,sticker,Catalog/sticker_01,Sprites/Stickers/sticker_01.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_02,玫瑰花束,sticker,Catalog/sticker_02,Sprites/Stickers/sticker_02.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_03,旧邮票,sticker,Catalog/sticker_03,Sprites/Stickers/sticker_03.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_04,蝴蝶,sticker,Catalog/sticker_04,Sprites/Stickers/sticker_04.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_05,蘑菇,sticker,Catalog/sticker_05,Sprites/Stickers/sticker_05.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_06,咖啡杯,sticker,Catalog/sticker_06,Sprites/Stickers/sticker_06.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_07,复古钥匙,sticker,Catalog/sticker_07,Sprites/Stickers/sticker_07.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_08,黄铜怀表,sticker,Catalog/sticker_08,Sprites/Stickers/sticker_08.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_09,古典信封,sticker,Catalog/sticker_09,Sprites/Stickers/sticker_09.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_10,白色雏菊,sticker,Catalog/sticker_10,Sprites/Stickers/sticker_10.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_11,蕨叶,sticker,Catalog/sticker_11,Sprites/Stickers/sticker_11.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_12,月亮星辰,sticker,Catalog/sticker_12,Sprites/Stickers/sticker_12.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_13,旧相框,sticker,Catalog/sticker_13,Sprites/Stickers/sticker_13.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_14,打字机,sticker,Catalog/sticker_14,Sprites/Stickers/sticker_14.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_15,复古茶壶,sticker,Catalog/sticker_15,Sprites/Stickers/sticker_15.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_16,蜡封信,sticker,Catalog/sticker_16,Sprites/Stickers/sticker_16.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_17,旅行标签,sticker,Catalog/sticker_17,Sprites/Stickers/sticker_17.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_18,银杏叶,sticker,Catalog/sticker_18,Sprites/Stickers/sticker_18.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_19,书籍,sticker,Catalog/sticker_19,Sprites/Stickers/sticker_19.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+sticker_20,复古相机,sticker,Catalog/sticker_20,Sprites/Stickers/sticker_20.png,,收藏一枚小小图案，记录日常里值得停留的瞬间。
+note_01,复古便签 01,note,Catalog/note_01,Sprites/Notes/note_01.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_02,复古便签 02,note,Catalog/note_02,Sprites/Notes/note_02.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_03,复古便签 03,note,Catalog/note_03,Sprites/Notes/note_03.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_04,复古便签 04,note,Catalog/note_04,Sprites/Notes/note_04.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_05,复古便签 05,note,Catalog/note_05,Sprites/Notes/note_05.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_06,复古便签 06,note,Catalog/note_06,Sprites/Notes/note_06.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_07,复古便签 07,note,Catalog/note_07,Sprites/Notes/note_07.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+note_08,复古便签 08,note,Catalog/note_08,Sprites/Notes/note_08.png,,一角温柔的纸，留给忽然浮现的心事与灵感。
+decoration_01,邮票边饰,decoration,Catalog/decoration_01,Sprites/Decorations/decoration_01.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+decoration_02,旅行标签,decoration,Catalog/decoration_02,Sprites/Decorations/decoration_02.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+decoration_03,火漆信封,decoration,Catalog/decoration_03,Sprites/Decorations/decoration_03.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+decoration_04,复古相框,decoration,Catalog/decoration_04,Sprites/Decorations/decoration_04.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+decoration_05,黄铜钥匙,decoration,Catalog/decoration_05,Sprites/Decorations/decoration_05.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+decoration_06,月相装饰,decoration,Catalog/decoration_06,Sprites/Decorations/decoration_06.png,,一件有旧时光气息的小物，为纸间故事添一笔。
+page_01,典藏内页 01,page,Catalog/page_01,Sprites/JournalPages/PAGE_01.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_02,典藏内页 02,page,Catalog/page_02,Sprites/JournalPages/PAGE_02.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_03,典藏内页 03,page,Catalog/page_03,Sprites/JournalPages/PAGE_03.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_04,典藏内页 04,page,Catalog/page_04,Sprites/JournalPages/PAGE_04.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_05,典藏内页 05,page,Catalog/page_05,Sprites/JournalPages/PAGE_05.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_06,典藏内页 06,page,Catalog/page_06,Sprites/JournalPages/PAGE_06.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_07,典藏内页 07,page,Catalog/page_07,Sprites/JournalPages/PAGE_07.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_08,典藏内页 08,page,Catalog/page_08,Sprites/JournalPages/PAGE_08.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_09,典藏内页 09,page,Catalog/page_09,Sprites/JournalPages/PAGE_09.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_10,典藏内页 10,page,Catalog/page_10,Sprites/JournalPages/PAGE_10.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_11,典藏内页 11,page,Catalog/page_11,Sprites/JournalPages/PAGE_11.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_12,典藏内页 12,page,Catalog/page_12,Sprites/JournalPages/PAGE_12.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_13,典藏内页 13,page,Catalog/page_13,Sprites/JournalPages/PAGE_13.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_14,典藏内页 14,page,Catalog/page_14,Sprites/JournalPages/PAGE_14.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_15,典藏内页 15,page,Catalog/page_15,Sprites/JournalPages/PAGE_15.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_16,典藏内页 16,page,Catalog/page_16,Sprites/JournalPages/PAGE_16.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_17,典藏内页 17,page,Catalog/page_17,Sprites/JournalPages/PAGE_17.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_18,典藏内页 18,page,Catalog/page_18,Sprites/JournalPages/PAGE_18.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_19,典藏内页 19,page,Catalog/page_19,Sprites/JournalPages/PAGE_19.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_20,典藏内页 20,page,Catalog/page_20,Sprites/JournalPages/PAGE_20.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_21,典藏内页 21,page,Catalog/page_21,Sprites/JournalPages/PAGE_21.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_22,典藏内页 22,page,Catalog/page_22,Sprites/JournalPages/PAGE_22.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_23,典藏内页 23,page,Catalog/page_23,Sprites/JournalPages/PAGE_23.png,,复古花饰围住纸页，为今天留一处安静的空白。
+page_24,典藏内页 24,page,Catalog/page_24,Sprites/JournalPages/PAGE_24.png,,复古花饰围住纸页，为今天留一处安静的空白。

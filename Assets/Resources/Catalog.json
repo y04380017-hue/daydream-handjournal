@@ -1,0 +1,708 @@
+{
+    "items": [
+        {
+            "id": "tape_01",
+            "name": "复古玫瑰",
+            "category": "tape",
+            "texture": "Catalog/tape_01",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_01.prefab"
+        },
+        {
+            "id": "tape_02",
+            "name": "植物图鉴",
+            "category": "tape",
+            "texture": "Catalog/tape_02",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_02.prefab"
+        },
+        {
+            "id": "tape_03",
+            "name": "旧报纸",
+            "category": "tape",
+            "texture": "Catalog/tape_03",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_03.prefab"
+        },
+        {
+            "id": "tape_04",
+            "name": "古地图",
+            "category": "tape",
+            "texture": "Catalog/tape_04",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_04.prefab"
+        },
+        {
+            "id": "tape_05",
+            "name": "复古邮票",
+            "category": "tape",
+            "texture": "Catalog/tape_05",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_05.prefab"
+        },
+        {
+            "id": "tape_06",
+            "name": "维多利亚蕾丝",
+            "category": "tape",
+            "texture": "Catalog/tape_06",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_06.prefab"
+        },
+        {
+            "id": "tape_07",
+            "name": "古典乐谱",
+            "category": "tape",
+            "texture": "Catalog/tape_07",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_07.prefab"
+        },
+        {
+            "id": "tape_08",
+            "name": "复古瓷砖",
+            "category": "tape",
+            "texture": "Catalog/tape_08",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_08.prefab"
+        },
+        {
+            "id": "tape_09",
+            "name": "暖色几何拼贴",
+            "category": "tape",
+            "texture": "Catalog/tape_09",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_09.prefab"
+        },
+        {
+            "id": "tape_10",
+            "name": "蓝色月光",
+            "category": "tape",
+            "texture": "Catalog/tape_10",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_10.prefab"
+        },
+        {
+            "id": "tape_11",
+            "name": "秋日枫叶",
+            "category": "tape",
+            "texture": "Catalog/tape_11",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_11.prefab"
+        },
+        {
+            "id": "tape_12",
+            "name": "咖啡手账",
+            "category": "tape",
+            "texture": "Catalog/tape_12",
+            "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+            "prefab": "Assets/Prefabs/TapeRoll_12.prefab"
+        },
+        {
+            "id": "sticker_01",
+            "name": "植物标本",
+            "category": "sticker",
+            "texture": "Catalog/sticker_01",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_02",
+            "name": "玫瑰花束",
+            "category": "sticker",
+            "texture": "Catalog/sticker_02",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_03",
+            "name": "旧邮票",
+            "category": "sticker",
+            "texture": "Catalog/sticker_03",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_04",
+            "name": "蝴蝶",
+            "category": "sticker",
+            "texture": "Catalog/sticker_04",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_05",
+            "name": "蘑菇",
+            "category": "sticker",
+            "texture": "Catalog/sticker_05",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_06",
+            "name": "咖啡杯",
+            "category": "sticker",
+            "texture": "Catalog/sticker_06",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_07",
+            "name": "复古钥匙",
+            "category": "sticker",
+            "texture": "Catalog/sticker_07",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_08",
+            "name": "黄铜怀表",
+            "category": "sticker",
+            "texture": "Catalog/sticker_08",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_09",
+            "name": "古典信封",
+            "category": "sticker",
+            "texture": "Catalog/sticker_09",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_10",
+            "name": "白色雏菊",
+            "category": "sticker",
+            "texture": "Catalog/sticker_10",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_11",
+            "name": "蕨叶",
+            "category": "sticker",
+            "texture": "Catalog/sticker_11",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_12",
+            "name": "月亮星辰",
+            "category": "sticker",
+            "texture": "Catalog/sticker_12",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_13",
+            "name": "旧相框",
+            "category": "sticker",
+            "texture": "Catalog/sticker_13",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_14",
+            "name": "打字机",
+            "category": "sticker",
+            "texture": "Catalog/sticker_14",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_15",
+            "name": "复古茶壶",
+            "category": "sticker",
+            "texture": "Catalog/sticker_15",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_16",
+            "name": "蜡封信",
+            "category": "sticker",
+            "texture": "Catalog/sticker_16",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_17",
+            "name": "旅行标签",
+            "category": "sticker",
+            "texture": "Catalog/sticker_17",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_18",
+            "name": "银杏叶",
+            "category": "sticker",
+            "texture": "Catalog/sticker_18",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_19",
+            "name": "书籍",
+            "category": "sticker",
+            "texture": "Catalog/sticker_19",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "sticker_20",
+            "name": "复古相机",
+            "category": "sticker",
+            "texture": "Catalog/sticker_20",
+            "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+            "prefab": ""
+        },
+        {
+            "id": "note_01",
+            "name": "复古便签 01",
+            "category": "note",
+            "texture": "Catalog/note_01",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_02",
+            "name": "复古便签 02",
+            "category": "note",
+            "texture": "Catalog/note_02",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_03",
+            "name": "复古便签 03",
+            "category": "note",
+            "texture": "Catalog/note_03",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_04",
+            "name": "复古便签 04",
+            "category": "note",
+            "texture": "Catalog/note_04",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_05",
+            "name": "复古便签 05",
+            "category": "note",
+            "texture": "Catalog/note_05",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_06",
+            "name": "复古便签 06",
+            "category": "note",
+            "texture": "Catalog/note_06",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_07",
+            "name": "复古便签 07",
+            "category": "note",
+            "texture": "Catalog/note_07",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "note_08",
+            "name": "复古便签 08",
+            "category": "note",
+            "texture": "Catalog/note_08",
+            "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_01",
+            "name": "邮票边饰",
+            "category": "decoration",
+            "texture": "Catalog/decoration_01",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_02",
+            "name": "旅行标签",
+            "category": "decoration",
+            "texture": "Catalog/decoration_02",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_03",
+            "name": "火漆信封",
+            "category": "decoration",
+            "texture": "Catalog/decoration_03",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_04",
+            "name": "复古相框",
+            "category": "decoration",
+            "texture": "Catalog/decoration_04",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_05",
+            "name": "黄铜钥匙",
+            "category": "decoration",
+            "texture": "Catalog/decoration_05",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "decoration_06",
+            "name": "月相装饰",
+            "category": "decoration",
+            "texture": "Catalog/decoration_06",
+            "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+            "prefab": ""
+        },
+        {
+            "id": "page_01",
+            "name": "云海来信",
+            "category": "page",
+            "texture": "DaydreamPapers/page_01",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_02",
+            "name": "月亮渡船",
+            "category": "page",
+            "texture": "DaydreamPapers/page_02",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_03",
+            "name": "乘风气球",
+            "category": "page",
+            "texture": "DaydreamPapers/page_03",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_04",
+            "name": "星光轨道",
+            "category": "page",
+            "texture": "DaydreamPapers/page_04",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_05",
+            "name": "漂浮花岛",
+            "category": "page",
+            "texture": "DaydreamPapers/page_05",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_06",
+            "name": "折纸远航",
+            "category": "page",
+            "texture": "DaydreamPapers/page_06",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_07",
+            "name": "晴空邮戳",
+            "category": "page",
+            "texture": "DaydreamPapers/page_07",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_08",
+            "name": "月下灯笼",
+            "category": "page",
+            "texture": "DaydreamPapers/page_08",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_09",
+            "name": "奶油风筝",
+            "category": "page",
+            "texture": "DaydreamPapers/page_09",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_10",
+            "name": "云端车票",
+            "category": "page",
+            "texture": "DaydreamPapers/page_10",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_11",
+            "name": "浮光涟漪",
+            "category": "page",
+            "texture": "DaydreamPapers/page_11",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_12",
+            "name": "雾蓝山屿",
+            "category": "page",
+            "texture": "DaydreamPapers/page_12",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_13",
+            "name": "薄荷云笺",
+            "category": "page",
+            "texture": "DaydreamPapers/page_13",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_14",
+            "name": "半月潮汐",
+            "category": "page",
+            "texture": "DaydreamPapers/page_14",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_15",
+            "name": "花瓣航线",
+            "category": "page",
+            "texture": "DaydreamPapers/page_15",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_16",
+            "name": "星屑边框",
+            "category": "page",
+            "texture": "DaydreamPapers/page_16",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_17",
+            "name": "庭院漂流",
+            "category": "page",
+            "texture": "DaydreamPapers/page_17",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_18",
+            "name": "纸鸟归途",
+            "category": "page",
+            "texture": "DaydreamPapers/page_18",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_19",
+            "name": "晚霞邮局",
+            "category": "page",
+            "texture": "DaydreamPapers/page_19",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_20",
+            "name": "灯火星河",
+            "category": "page",
+            "texture": "DaydreamPapers/page_20",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_21",
+            "name": "软糖云岛",
+            "category": "page",
+            "texture": "DaydreamPapers/page_21",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_22",
+            "name": "夜航手记",
+            "category": "page",
+            "texture": "DaydreamPapers/page_22",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_23",
+            "name": "晨光气泡",
+            "category": "page",
+            "texture": "DaydreamPapers/page_23",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "page_24",
+            "name": "月光山谷",
+            "category": "page",
+            "texture": "DaydreamPapers/page_24",
+            "description": "白日梦云海与星河主题内页，保留中央书写和拼贴区域。",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_01",
+            "name": "云端小门",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_01",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_02",
+            "name": "月亮枕头",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_02",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_03",
+            "name": "糖果星球",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_03",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_04",
+            "name": "薄荷风筝",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_04",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_05",
+            "name": "雨后云朵",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_05",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_06",
+            "name": "日光拱窗",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_06",
+            "description": "云上手作原创贴纸 · 白日梦",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_07",
+            "name": "下午茶杯",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_07",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_08",
+            "name": "草莓牛奶",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_08",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_09",
+            "name": "笑脸吐司",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_09",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_10",
+            "name": "小雏菊",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_10",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_11",
+            "name": "午睡小猫",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_11",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_12",
+            "name": "灵感小本",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_12",
+            "description": "云上手作原创贴纸 · 可爱生活",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_13",
+            "name": "云上车票",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_13",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_14",
+            "name": "旅途拍立得",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_14",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_15",
+            "name": "山间邮票",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_15",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_16",
+            "name": "周末行李",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_16",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_17",
+            "name": "远方来信",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_17",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        },
+        {
+            "id": "dream_sticker_18",
+            "name": "口袋相机",
+            "category": "sticker",
+            "texture": "DreamStickers/dream_sticker_18",
+            "description": "云上手作原创贴纸 · 旅行票据",
+            "prefab": ""
+        }
+    ]
+}

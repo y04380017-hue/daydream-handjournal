@@ -1,0 +1,634 @@
+{
+  "items": [
+    {
+      "id": "tape_01",
+      "name": "复古玫瑰",
+      "category": "tape",
+      "texture": "Catalog/tape_01",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_01.prefab",
+      "source": "Textures/Tapes/tape_01_pattern.png"
+    },
+    {
+      "id": "tape_02",
+      "name": "植物图鉴",
+      "category": "tape",
+      "texture": "Catalog/tape_02",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_02.prefab",
+      "source": "Textures/Tapes/tape_02_pattern.png"
+    },
+    {
+      "id": "tape_03",
+      "name": "旧报纸",
+      "category": "tape",
+      "texture": "Catalog/tape_03",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_03.prefab",
+      "source": "Textures/Tapes/tape_03_pattern.png"
+    },
+    {
+      "id": "tape_04",
+      "name": "古地图",
+      "category": "tape",
+      "texture": "Catalog/tape_04",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_04.prefab",
+      "source": "Textures/Tapes/tape_04_pattern.png"
+    },
+    {
+      "id": "tape_05",
+      "name": "复古邮票",
+      "category": "tape",
+      "texture": "Catalog/tape_05",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_05.prefab",
+      "source": "Textures/Tapes/tape_05_pattern.png"
+    },
+    {
+      "id": "tape_06",
+      "name": "维多利亚蕾丝",
+      "category": "tape",
+      "texture": "Catalog/tape_06",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_06.prefab",
+      "source": "Textures/Tapes/tape_06_pattern.png"
+    },
+    {
+      "id": "tape_07",
+      "name": "古典乐谱",
+      "category": "tape",
+      "texture": "Catalog/tape_07",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_07.prefab",
+      "source": "Textures/Tapes/tape_07_pattern.png"
+    },
+    {
+      "id": "tape_08",
+      "name": "复古瓷砖",
+      "category": "tape",
+      "texture": "Catalog/tape_08",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_08.prefab",
+      "source": "Textures/Tapes/tape_08_pattern.png"
+    },
+    {
+      "id": "tape_09",
+      "name": "暖色几何拼贴",
+      "category": "tape",
+      "texture": "Catalog/tape_09",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_09.prefab",
+      "source": "Textures/Tapes/tape_09_pattern.png"
+    },
+    {
+      "id": "tape_10",
+      "name": "蓝色月光",
+      "category": "tape",
+      "texture": "Catalog/tape_10",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_10.prefab",
+      "source": "Textures/Tapes/tape_10_pattern.png"
+    },
+    {
+      "id": "tape_11",
+      "name": "秋日枫叶",
+      "category": "tape",
+      "texture": "Catalog/tape_11",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_11.prefab",
+      "source": "Textures/Tapes/tape_11_pattern.png"
+    },
+    {
+      "id": "tape_12",
+      "name": "咖啡手账",
+      "category": "tape",
+      "texture": "Catalog/tape_12",
+      "description": "将旧日的花纹与柔和的色彩，留在今天的纸边。",
+      "prefab": "Assets/Prefabs/TapeRoll_12.prefab",
+      "source": "Textures/Tapes/tape_12_pattern.png"
+    },
+    {
+      "id": "sticker_01",
+      "name": "植物标本",
+      "category": "sticker",
+      "texture": "Catalog/sticker_01",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_01.png"
+    },
+    {
+      "id": "sticker_02",
+      "name": "玫瑰花束",
+      "category": "sticker",
+      "texture": "Catalog/sticker_02",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_02.png"
+    },
+    {
+      "id": "sticker_03",
+      "name": "旧邮票",
+      "category": "sticker",
+      "texture": "Catalog/sticker_03",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_03.png"
+    },
+    {
+      "id": "sticker_04",
+      "name": "蝴蝶",
+      "category": "sticker",
+      "texture": "Catalog/sticker_04",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_04.png"
+    },
+    {
+      "id": "sticker_05",
+      "name": "蘑菇",
+      "category": "sticker",
+      "texture": "Catalog/sticker_05",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_05.png"
+    },
+    {
+      "id": "sticker_06",
+      "name": "咖啡杯",
+      "category": "sticker",
+      "texture": "Catalog/sticker_06",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_06.png"
+    },
+    {
+      "id": "sticker_07",
+      "name": "复古钥匙",
+      "category": "sticker",
+      "texture": "Catalog/sticker_07",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_07.png"
+    },
+    {
+      "id": "sticker_08",
+      "name": "黄铜怀表",
+      "category": "sticker",
+      "texture": "Catalog/sticker_08",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_08.png"
+    },
+    {
+      "id": "sticker_09",
+      "name": "古典信封",
+      "category": "sticker",
+      "texture": "Catalog/sticker_09",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_09.png"
+    },
+    {
+      "id": "sticker_10",
+      "name": "白色雏菊",
+      "category": "sticker",
+      "texture": "Catalog/sticker_10",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_10.png"
+    },
+    {
+      "id": "sticker_11",
+      "name": "蕨叶",
+      "category": "sticker",
+      "texture": "Catalog/sticker_11",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_11.png"
+    },
+    {
+      "id": "sticker_12",
+      "name": "月亮星辰",
+      "category": "sticker",
+      "texture": "Catalog/sticker_12",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_12.png"
+    },
+    {
+      "id": "sticker_13",
+      "name": "旧相框",
+      "category": "sticker",
+      "texture": "Catalog/sticker_13",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_13.png"
+    },
+    {
+      "id": "sticker_14",
+      "name": "打字机",
+      "category": "sticker",
+      "texture": "Catalog/sticker_14",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_14.png"
+    },
+    {
+      "id": "sticker_15",
+      "name": "复古茶壶",
+      "category": "sticker",
+      "texture": "Catalog/sticker_15",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_15.png"
+    },
+    {
+      "id": "sticker_16",
+      "name": "蜡封信",
+      "category": "sticker",
+      "texture": "Catalog/sticker_16",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_16.png"
+    },
+    {
+      "id": "sticker_17",
+      "name": "旅行标签",
+      "category": "sticker",
+      "texture": "Catalog/sticker_17",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_17.png"
+    },
+    {
+      "id": "sticker_18",
+      "name": "银杏叶",
+      "category": "sticker",
+      "texture": "Catalog/sticker_18",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_18.png"
+    },
+    {
+      "id": "sticker_19",
+      "name": "书籍",
+      "category": "sticker",
+      "texture": "Catalog/sticker_19",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_19.png"
+    },
+    {
+      "id": "sticker_20",
+      "name": "复古相机",
+      "category": "sticker",
+      "texture": "Catalog/sticker_20",
+      "description": "收藏一枚小小图案，记录日常里值得停留的瞬间。",
+      "prefab": "",
+      "source": "Sprites/Stickers/sticker_20.png"
+    },
+    {
+      "id": "note_01",
+      "name": "复古便签 01",
+      "category": "note",
+      "texture": "Catalog/note_01",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_01.png"
+    },
+    {
+      "id": "note_02",
+      "name": "复古便签 02",
+      "category": "note",
+      "texture": "Catalog/note_02",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_02.png"
+    },
+    {
+      "id": "note_03",
+      "name": "复古便签 03",
+      "category": "note",
+      "texture": "Catalog/note_03",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_03.png"
+    },
+    {
+      "id": "note_04",
+      "name": "复古便签 04",
+      "category": "note",
+      "texture": "Catalog/note_04",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_04.png"
+    },
+    {
+      "id": "note_05",
+      "name": "复古便签 05",
+      "category": "note",
+      "texture": "Catalog/note_05",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_05.png"
+    },
+    {
+      "id": "note_06",
+      "name": "复古便签 06",
+      "category": "note",
+      "texture": "Catalog/note_06",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_06.png"
+    },
+    {
+      "id": "note_07",
+      "name": "复古便签 07",
+      "category": "note",
+      "texture": "Catalog/note_07",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_07.png"
+    },
+    {
+      "id": "note_08",
+      "name": "复古便签 08",
+      "category": "note",
+      "texture": "Catalog/note_08",
+      "description": "一角温柔的纸，留给忽然浮现的心事与灵感。",
+      "prefab": "",
+      "source": "Sprites/Notes/note_08.png"
+    },
+    {
+      "id": "decoration_01",
+      "name": "邮票边饰",
+      "category": "decoration",
+      "texture": "Catalog/decoration_01",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_01.png"
+    },
+    {
+      "id": "decoration_02",
+      "name": "旅行标签",
+      "category": "decoration",
+      "texture": "Catalog/decoration_02",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_02.png"
+    },
+    {
+      "id": "decoration_03",
+      "name": "火漆信封",
+      "category": "decoration",
+      "texture": "Catalog/decoration_03",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_03.png"
+    },
+    {
+      "id": "decoration_04",
+      "name": "复古相框",
+      "category": "decoration",
+      "texture": "Catalog/decoration_04",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_04.png"
+    },
+    {
+      "id": "decoration_05",
+      "name": "黄铜钥匙",
+      "category": "decoration",
+      "texture": "Catalog/decoration_05",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_05.png"
+    },
+    {
+      "id": "decoration_06",
+      "name": "月相装饰",
+      "category": "decoration",
+      "texture": "Catalog/decoration_06",
+      "description": "一件有旧时光气息的小物，为纸间故事添一笔。",
+      "prefab": "",
+      "source": "Sprites/Decorations/decoration_06.png"
+    },
+    {
+      "id": "page_01",
+      "name": "典藏内页 01",
+      "category": "page",
+      "texture": "Catalog/page_01",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_01.png"
+    },
+    {
+      "id": "page_02",
+      "name": "典藏内页 02",
+      "category": "page",
+      "texture": "Catalog/page_02",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_02.png"
+    },
+    {
+      "id": "page_03",
+      "name": "典藏内页 03",
+      "category": "page",
+      "texture": "Catalog/page_03",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_03.png"
+    },
+    {
+      "id": "page_04",
+      "name": "典藏内页 04",
+      "category": "page",
+      "texture": "Catalog/page_04",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_04.png"
+    },
+    {
+      "id": "page_05",
+      "name": "典藏内页 05",
+      "category": "page",
+      "texture": "Catalog/page_05",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_05.png"
+    },
+    {
+      "id": "page_06",
+      "name": "典藏内页 06",
+      "category": "page",
+      "texture": "Catalog/page_06",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_06.png"
+    },
+    {
+      "id": "page_07",
+      "name": "典藏内页 07",
+      "category": "page",
+      "texture": "Catalog/page_07",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_07.png"
+    },
+    {
+      "id": "page_08",
+      "name": "典藏内页 08",
+      "category": "page",
+      "texture": "Catalog/page_08",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_08.png"
+    },
+    {
+      "id": "page_09",
+      "name": "典藏内页 09",
+      "category": "page",
+      "texture": "Catalog/page_09",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_09.png"
+    },
+    {
+      "id": "page_10",
+      "name": "典藏内页 10",
+      "category": "page",
+      "texture": "Catalog/page_10",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_10.png"
+    },
+    {
+      "id": "page_11",
+      "name": "典藏内页 11",
+      "category": "page",
+      "texture": "Catalog/page_11",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_11.png"
+    },
+    {
+      "id": "page_12",
+      "name": "典藏内页 12",
+      "category": "page",
+      "texture": "Catalog/page_12",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_12.png"
+    },
+    {
+      "id": "page_13",
+      "name": "典藏内页 13",
+      "category": "page",
+      "texture": "Catalog/page_13",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_13.png"
+    },
+    {
+      "id": "page_14",
+      "name": "典藏内页 14",
+      "category": "page",
+      "texture": "Catalog/page_14",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_14.png"
+    },
+    {
+      "id": "page_15",
+      "name": "典藏内页 15",
+      "category": "page",
+      "texture": "Catalog/page_15",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_15.png"
+    },
+    {
+      "id": "page_16",
+      "name": "典藏内页 16",
+      "category": "page",
+      "texture": "Catalog/page_16",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_16.png"
+    },
+    {
+      "id": "page_17",
+      "name": "典藏内页 17",
+      "category": "page",
+      "texture": "Catalog/page_17",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_17.png"
+    },
+    {
+      "id": "page_18",
+      "name": "典藏内页 18",
+      "category": "page",
+      "texture": "Catalog/page_18",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_18.png"
+    },
+    {
+      "id": "page_19",
+      "name": "典藏内页 19",
+      "category": "page",
+      "texture": "Catalog/page_19",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_19.png"
+    },
+    {
+      "id": "page_20",
+      "name": "典藏内页 20",
+      "category": "page",
+      "texture": "Catalog/page_20",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_20.png"
+    },
+    {
+      "id": "page_21",
+      "name": "典藏内页 21",
+      "category": "page",
+      "texture": "Catalog/page_21",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_21.png"
+    },
+    {
+      "id": "page_22",
+      "name": "典藏内页 22",
+      "category": "page",
+      "texture": "Catalog/page_22",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_22.png"
+    },
+    {
+      "id": "page_23",
+      "name": "典藏内页 23",
+      "category": "page",
+      "texture": "Catalog/page_23",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_23.png"
+    },
+    {
+      "id": "page_24",
+      "name": "典藏内页 24",
+      "category": "page",
+      "texture": "Catalog/page_24",
+      "description": "复古花饰围住纸页，为今天留一处安静的空白。",
+      "prefab": "",
+      "source": "Sprites/JournalPages/PAGE_24.png"
+    }
+  ]
+}

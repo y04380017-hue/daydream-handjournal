@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "id": "page_01",
+      "name": "云海来信",
+      "texture": "DaydreamPapers/page_01"
+    },
+    {
+      "id": "page_02",
+      "name": "月亮渡船",
+      "texture": "DaydreamPapers/page_02"
+    },
+    {
+      "id": "page_03",
+      "name": "乘风气球",
+      "texture": "DaydreamPapers/page_03"
+    },
+    {
+      "id": "page_04",
+      "name": "星光轨道",
+      "texture": "DaydreamPapers/page_04"
+    },
+    {
+      "id": "page_05",
+      "name": "漂浮花岛",
+      "texture": "DaydreamPapers/page_05"
+    },
+    {
+      "id": "page_06",
+      "name": "折纸远航",
+      "texture": "DaydreamPapers/page_06"
+    },
+    {
+      "id": "page_07",
+      "name": "晴空邮戳",
+      "texture": "DaydreamPapers/page_07"
+    },
+    {
+      "id": "page_08",
+      "name": "月下灯笼",
+      "texture": "DaydreamPapers/page_08"
+    },
+    {
+      "id": "page_09",
+      "name": "奶油风筝",
+      "texture": "DaydreamPapers/page_09"
+    },
+    {
+      "id": "page_10",
+      "name": "云端车票",
+      "texture": "DaydreamPapers/page_10"
+    },
+    {
+      "id": "page_11",
+      "name": "浮光涟漪",
+      "texture": "DaydreamPapers/page_11"
+    },
+    {
+      "id": "page_12",
+      "name": "雾蓝山屿",
+      "texture": "DaydreamPapers/page_12"
+    },
+    {
+      "id": "page_13",
+      "name": "薄荷云笺",
+      "texture": "DaydreamPapers/page_13"
+    },
+    {
+      "id": "page_14",
+      "name": "半月潮汐",
+      "texture": "DaydreamPapers/page_14"
+    },
+    {
+      "id": "page_15",
+      "name": "花瓣航线",
+      "texture": "DaydreamPapers/page_15"
+    },
+    {
+      "id": "page_16",
+      "name": "星屑边框",
+      "texture": "DaydreamPapers/page_16"
+    },
+    {
+      "id": "page_17",
+      "name": "庭院漂流",
+      "texture": "DaydreamPapers/page_17"
+    },
+    {
+      "id": "page_18",
+      "name": "纸鸟归途",
+      "texture": "DaydreamPapers/page_18"
+    },
+    {
+      "id": "page_19",
+      "name": "晚霞邮局",
+      "texture": "DaydreamPapers/page_19"
+    },
+    {
+      "id": "page_20",
+      "name": "灯火星河",
+      "texture": "DaydreamPapers/page_20"
+    },
+    {
+      "id": "page_21",
+      "name": "软糖云岛",
+      "texture": "DaydreamPapers/page_21"
+    },
+    {
+      "id": "page_22",
+      "name": "夜航手记",
+      "texture": "DaydreamPapers/page_22"
+    },
+    {
+      "id": "page_23",
+      "name": "晨光气泡",
+      "texture": "DaydreamPapers/page_23"
+    },
+    {
+      "id": "page_24",
+      "name": "月光山谷",
+      "texture": "DaydreamPapers/page_24"
+    }
+  ]
+}

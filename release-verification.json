@@ -1,0 +1,72 @@
+{
+  "version": "v0.1.0-mouse",
+  "date": "2026-11-09",
+  "repository": "y04380017-hue/daydream-handjournal",
+  "visibility": "public",
+  "result": "PASS",
+  "checks": {
+    "unity": {
+      "status": "PASS",
+      "checks": 156,
+      "nativeInput": false
+    },
+    "referenceRestart": {
+      "status": "PASS",
+      "checks": 8,
+      "nativeInput": false
+    },
+    "full": {
+      "status": "PASS",
+      "checks": 154,
+      "nativeInput": false
+    },
+    "nativeLook": {
+      "status": "PASS",
+      "checks": 6,
+      "nativeInput": true
+    },
+    "fullRestart": {
+      "status": "PASS",
+      "checks": 11,
+      "nativeInput": false
+    },
+    "offline": {
+      "status": "PASS",
+      "checks": 7,
+      "nativeInput": false
+    },
+    "nativeDesk": {
+      "status": "PASS",
+      "checks": 21,
+      "nativeInput": true
+    },
+    "reference": {
+      "status": "PASS",
+      "checks": 156,
+      "nativeInput": false
+    },
+    "socialHTTP": {
+      "status": "PASS",
+      "checks": 14,
+      "runtime": "Node.js v24.22.1",
+      "command": "node --test SocialService/server.test.mjs"
+    }
+  },
+  "package": {
+    "file": "daydream-handjournal-windows-x64-v0.1.0-mouse.zip",
+    "bytes": 71185064,
+    "sha256": "5c508c9337d1f87ff34282c3ab4865e953a432d1c6e96826040db732ad024ceb",
+    "verifiedFiles": 173,
+    "zipRoundTrip": "PASS",
+    "normalStartup": "PASS"
+  },
+  "realPlayerSavesUnchanged": true,
+  "gestureArchivePreserved": true,
+  "cameraRuntimeIncluded": false,
+  "cloudServiceDeployed": false,
+  "manualBoundaries": [
+    "Long-term full-story playthrough",
+    "Other hardware, DPI, display ratios and multiple monitors",
+    "All materials from all possible viewpoints"
+  ]
+}

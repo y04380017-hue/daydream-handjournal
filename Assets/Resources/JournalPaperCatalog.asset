@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c7b0f1f18290274e905c65fc4564cd6, type: 3}
+  m_Name: JournalPaperCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::VintageJournal.JournalPaperCatalog
+  papers:
+  - id: page_01
+    displayName: "\u4E91\u6D77\u6765\u4FE1"
+    texture: {fileID: 2800000, guid: 6cfe68abe3269784b93cec063a00c2e3, type: 3}
+  - id: page_02
+    displayName: "\u6708\u4EAE\u6E21\u8239"
+    texture: {fileID: 2800000, guid: 804db72a92667884ba16ac7c041c3509, type: 3}
+  - id: page_03
+    displayName: "\u4E58\u98CE\u6C14\u7403"
+    texture: {fileID: 2800000, guid: fbc919900caa1f348b45f38c55aa466c, type: 3}
+  - id: page_04
+    displayName: "\u661F\u5149\u8F68\u9053"
+    texture: {fileID: 2800000, guid: c25c021fe1faea1429f3faf77f5c201c, type: 3}
+  - id: page_05
+    displayName: "\u6F02\u6D6E\u82B1\u5C9B"
+    texture: {fileID: 2800000, guid: 4d2f3eeb7659e4646bfe27efc50794b6, type: 3}
+  - id: page_06
+    displayName: "\u6298\u7EB8\u8FDC\u822A"
+    texture: {fileID: 2800000, guid: 55b0c2bc56280a046b13f9f6f0ca7147, type: 3}
+  - id: page_07
+    displayName: "\u6674\u7A7A\u90AE\u6233"
+    texture: {fileID: 2800000, guid: 991b60d444716854f90dd4ba49a646ab, type: 3}
+  - id: page_08
+    displayName: "\u6708\u4E0B\u706F\u7B3C"
+    texture: {fileID: 2800000, guid: 8a13455667ca7854186ad7899db1a63d, type: 3}
+  - id: page_09
+    displayName: "\u5976\u6CB9\u98CE\u7B5D"
+    texture: {fileID: 2800000, guid: c07f1b6b06c9d5047b91894f3d451182, type: 3}
+  - id: page_10
+    displayName: "\u4E91\u7AEF\u8F66\u7968"
+    texture: {fileID: 2800000, guid: aa0b6028cf3074d4d991de433e15f9ff, type: 3}
+  - id: page_11
+    displayName: "\u6D6E\u5149\u6D9F\u6F2A"
+    texture: {fileID: 2800000, guid: 730d74d5bf077784391cb8894367436e, type: 3}
+  - id: page_12
+    displayName: "\u96FE\u84DD\u5C71\u5C7F"
+    texture: {fileID: 2800000, guid: 87ab268ca02743f4f9ab82483d425941, type: 3}
+  - id: page_13
+    displayName: "\u8584\u8377\u4E91\u7B3A"
+    texture: {fileID: 2800000, guid: 9012287362906054ab306529bd7ea502, type: 3}
+  - id: page_14
+    displayName: "\u534A\u6708\u6F6E\u6C50"
+    texture: {fileID: 2800000, guid: 79557bfd7e246e74d8877c8de3ec8f47, type: 3}
+  - id: page_15
+    displayName: "\u82B1\u74E3\u822A\u7EBF"
+    texture: {fileID: 2800000, guid: 9d1fef05c16436a4599bcf57f65cdc5f, type: 3}
+  - id: page_16
+    displayName: "\u661F\u5C51\u8FB9\u6846"
+    texture: {fileID: 2800000, guid: 912e4b38ab2032e4e86c327bec710bf4, type: 3}
+  - id: page_17
+    displayName: "\u5EAD\u9662\u6F02\u6D41"
+    texture: {fileID: 2800000, guid: 57a6004df722cf44d82b7acbc264dd2b, type: 3}
+  - id: page_18
+    displayName: "\u7EB8\u9E1F\u5F52\u9014"
+    texture: {fileID: 2800000, guid: 0c8784a4f729d984eaf85cb7781ba64c, type: 3}
+  - id: page_19
+    displayName: "\u665A\u971E\u90AE\u5C40"
+    texture: {fileID: 2800000, guid: a802eb4ca62c1f144aae5f59259b6f00, type: 3}
+  - id: page_20
+    displayName: "\u706F\u706B\u661F\u6CB3"
+    texture: {fileID: 2800000, guid: 63e5709fe86a10c48a20e44178a49a27, type: 3}
+  - id: page_21
+    displayName: "\u8F6F\u7CD6\u4E91\u5C9B"
+    texture: {fileID: 2800000, guid: d0fcbe020ccda91468865a87fbadcb08, type: 3}
+  - id: page_22
+    displayName: "\u591C\u822A\u624B\u8BB0"
+    texture: {fileID: 2800000, guid: aa21114234f225d44a635fa7d6f27d27, type: 3}
+  - id: page_23
+    displayName: "\u6668\u5149\u6C14\u6CE1"
+    texture: {fileID: 2800000, guid: dee380217be4527468c01333fa06c79f, type: 3}
+  - id: page_24
+    displayName: "\u6708\u5149\u5C71\u8C37"
+    texture: {fileID: 2800000, guid: 8fff08f3a9794d04f8b252e7073c8b2e, type: 3}
+  - id: paper_daydream_ivory
+    displayName: "\u68C9\u7EB8 \xB7 \u7EAF\u7C73\u8272"
+    texture: {fileID: 2800000, guid: 6beda7eecc961e54196667be21a7554d, type: 3}
+  - id: paper_bright_01
+    displayName: "\u6674\u7A7A \xB7 \u4E91\u6735\u6A2A\u7EBF"
+    texture: {fileID: 2800000, guid: 0dd6615451257a248abd677bcd480fcb, type: 3}
+  - id: paper_bright_02
+    displayName: "\u8584\u8377 \xB7 \u683C\u7EB9\u4FE1\u7B3A"
+    texture: {fileID: 2800000, guid: 83960b1ba76cfc9479bb8017d437926a, type: 3}
+  - id: paper_bright_03
+    displayName: "\u73CA\u745A \xB7 \u5C0F\u82B1\u56ED"
+    texture: {fileID: 2800000, guid: 669c3449bb57d1043858b18ecb3b27db, type: 3}
+  - id: paper_bright_04
+    displayName: "\u67E0\u6AAC \xB7 \u70B9\u9635"
+    texture: {fileID: 2800000, guid: 4f9e1f65885602b4c8d63799112ec463, type: 3}
+  - id: paper_bright_05
+    displayName: "\u6DE1\u7D2B \xB7 \u661F\u661F\u591C"
+    texture: {fileID: 2800000, guid: 12588f5f4ac030f4ca87119dfa68b478, type: 3}
+  - id: paper_bright_06
+    displayName: "\u73AB\u7470 \xB7 \u6CE2\u70B9\u82B1\u8FB9"
+    texture: {fileID: 2800000, guid: b78c3887d37be2e4c9fdf0e91a672f85, type: 3}
+  - id: paper_bright_07
+    displayName: "\u5F69\u8679 \xB7 \u7CD6\u679C\u6761\u7EB9"
+    texture: {fileID: 2800000, guid: 000332417e5a1574f8efedb9161b3f57, type: 3}
+  - id: paper_bright_08
+    displayName: "\u822A\u7A7A \xB7 \u90AE\u7968\u4FE1\u7B3A"
+    texture: {fileID: 2800000, guid: 56a0a3f634a32494989dc3b79cc68340, type: 3}
+  defaultPaperId: paper_daydream_ivory

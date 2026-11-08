@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff336a9f30b42494c89ec1c8feaf99f8, type: 3}
+  m_Name: SeatedProfile
+  m_EditorClassIdentifier: Assembly-CSharp::VintageJournal.DeskCameraProfile
+  seatedPosition: {x: 0, y: 1.28, z: -0.82}
+  seatedTarget: {x: 0, y: 0.78, z: -0.02}
+  seatedFieldOfView: 60
+  minimumHorizontalAspect: 1.7777778
+  journalPosition: {x: 0.018, y: 1.13, z: -0.36}
+  journalTarget: {x: 0.018, y: 0.771, z: -0.125}
+  journalFieldOfView: 43
+  openJournalAtDesk: 0
+  transitionSeconds: 0.85
+  panExtentX: 0.085
+  panExtentZ: 0.05
+  deskViews:
+  - kind: 1
+    label: "\u8BBE\u65BD\u603B\u89C8"
+    position: {x: 0, y: 1.48, z: -1.04}
+    target: {x: 0, y: 0.78, z: 0.02}
+    fieldOfView: 60
+  - kind: 2
+    label: "\u624B\u8D26\u7279\u5199"
+    position: {x: 0.018, y: 1.13, z: -0.36}
+    target: {x: 0.018, y: 0.771, z: -0.125}
+    fieldOfView: 43
+  - kind: 3
+    label: "\u5DE6\u4FA7\u80F6\u5E26\u67B6"
+    position: {x: -0.32, y: 1.24, z: -0.61}
+    target: {x: -0.49, y: 0.89, z: 0.15}
+    fieldOfView: 46
+  - kind: 4
+    label: "\u53F3\u4FA7\u672C\u518C\u4E0E\u4FBF\u7B7E"
+    position: {x: 0.3, y: 1.24, z: -0.61}
+    target: {x: 0.43, y: 0.85, z: 0.17}
+    fieldOfView: 47
+  - kind: 5
+    label: "\u5DE6\u62BD\u5C49 \xB7 \u80F6\u5E26\u5185\u9875"
+    position: {x: -0.3, y: 1, z: -1}
+    target: {x: -0.281, y: 0.61, z: -0.58}
+    fieldOfView: 48
+  - kind: 6
+    label: "\u53F3\u62BD\u5C49 \xB7 \u6587\u5177"
+    position: {x: 0.3, y: 1, z: -1}
+    target: {x: 0.281, y: 0.61, z: -0.58}
+    fieldOfView: 48
+  seatedLookEnabled: 1
+  seatedLookEdgeFraction: 0.035
+  seatedYawDegreesPerSecond: 110
+  seatedPitchDegreesPerSecond: 42
+  minimumSeatedPitch: -26
+  maximumSeatedPitch: 18
+  collectionForwardHalfAngle: 80
